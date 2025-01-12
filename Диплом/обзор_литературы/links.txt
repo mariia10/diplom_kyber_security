@@ -1,0 +1,14 @@
+https://www.infoq.com/articles/dealing-with-java-cves/
+https://github.com/dependency-check/dependency-check-gradle
+https://www.sonatype.com/blog/sca-and-sast-what-do-they-do-and-how-can-they-help-developers-like-you
+https://habr.com/ru/companies/swordfish_security/articles/797801/
+https://docs.veracode.com/r/Requesting_a_Static_Scan
+http://jeremylong.github.io/DependencyCheck/dependency-check-gradle/index.html
+https://github.com/snyk/gradle-plugin
+https://www.baeldung.com/java-snyk-security-risks
+https://snyk.io/blog/security-vulnerabilities-spring-boot/
+https://spotbugs.readthedocs.io/en/latest/gradle.html
+русский
+https://docs.codescoring.ru/agent/resolve.en/
+для написания части
+https://tproger.ru/articles/kak-obezopasit-razrabotku-prilozhenija-ot-ujazvimostej-v-storonnih-zavisimostjah
