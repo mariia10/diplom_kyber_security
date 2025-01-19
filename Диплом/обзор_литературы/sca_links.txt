@@ -8,7 +8,17 @@ https://github.com/snyk/gradle-plugin
 https://www.baeldung.com/java-snyk-security-risks
 https://snyk.io/blog/security-vulnerabilities-spring-boot/
 https://spotbugs.readthedocs.io/en/latest/gradle.html
+
+ossindex.sonatype – бесплатная версия
+
+https://ossindex.sonatype.org/doc/rest
+https://ossindex.sonatype.org/integrations
+https://github.com/sonatype-nexus-community/scan-gradle-plugin/#readme
+
+
 русский
 https://docs.codescoring.ru/agent/resolve.en/
 для написания части
 https://tproger.ru/articles/kak-obezopasit-razrabotku-prilozhenija-ot-ujazvimostej-v-storonnih-zavisimostjah
+
+https://codescoring.ru/
