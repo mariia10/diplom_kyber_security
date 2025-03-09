@@ -1,0 +1,13 @@
+1. https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
+
+2. https://www.researchgate.net/profile/Leonid-Golovyrin/publication/372134053_Analysis_of_tools_for_static_security_testing_of_applications/links/64a5dce2b9ed6874a5fc718a/Analysis-of-tools-for-static-security-testing-of-applications.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ&__cf_chl_tk=dfdehM8UUvmZc9FoWPfGQ53exQOe2s8a0Cc3SFYDtSM-1741543233-1.0.1.1-ZoWl3Z6.uZkSR9gPvS33l9kKEvx5w76X0OGxSUSxZqk
+
+- диплом бакалавра по саст (там оценка прописана, как внедряь)
+
+3. https://blogs.oracle.com/cloudsecurity/post/sast-scan-results-analysis-methodology - т
+ут про методологию сатса, чего они достигли
+
+4. https://norma.ncirl.ie/5956/1/lyubkadencheva.pdf - тут магистерская, сравнение саст и даст
+
+5. https://samate.nist.gov/SARD/test-suites - проекты для тестирования функционала
+это по ссылке - https://owasp.org/www-project-benchmark/
