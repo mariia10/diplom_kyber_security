@@ -26,3 +26,6 @@ Samate SARD (Static Analysis Results Dataset) предоставляет наб�
 8. https://habr.com/ru/companies/jugru/articles/505994/
 
 9. https://github.com/marketplace/actions/official-sonarqube-scan - итеграция с ci/cd в github
+
+10 по методологии оценивания анализаторов кода - https://kar.kent.ac.uk/58938/1/ASE-2016.pdf
+(по опросам разрабов, девопсов) - надо использовать для описания методологии
