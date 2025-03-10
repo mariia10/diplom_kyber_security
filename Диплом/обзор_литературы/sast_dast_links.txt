@@ -11,3 +11,18 @@
 
 5. https://samate.nist.gov/SARD/test-suites - проекты для тестирования функционала
 это по ссылке - https://owasp.org/www-project-benchmark/
+
+Samate SARD (Static Analysis Results Dataset) предоставляет набор тестовых проектов для оценки инструментов статического анализа (SAST). Он включает в себя различные языки программирования, в том числе Java. Вы можете найти тестовые проекты, которые содержат известные уязвимости, что позволяет разработчикам и исследователям тестировать и оценивать эффективность своих инструментов для обнаружения уязвимостей в коде на Java и других языках.
+
+Если вам нужно конкретное руководство по использованию данных тестов или примеры, вы можете найти полезную информацию на сайте или в документации к нему.
+
+6. https://medium.com/@ntando.mv15/integrating-sonarqube-in-ci-cd-with-github-actions-ee6ce450ceea 
+- заходим с vpn
+
+7. https://docs.sonarsource.com/sonarqube-server/latest/ - документация по sonarqube
+
+для настраивания в ci/cd c maven
+
+8. https://habr.com/ru/companies/jugru/articles/505994/
+
+9. https://github.com/marketplace/actions/official-sonarqube-scan - итеграция с ci/cd в github
