@@ -32,3 +32,12 @@ Samate SARD (Static Analysis Results Dataset) предоставляет наб�
 
 11. https://yandex.cloud/ru/blog/posts/2023/06/devsecops-steps-part-1 - тут классные ссылки на инструменты
 
+12. https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chpk.medium.com/top-10-open-source-sast-tools-bc860e9dfb2e&ved=2ahUKEwijve39t4-MAxXgAhAIHSSmGq4QFnoECBoQAQ&usg=AOvVaw3_Ach2rwSBkJYO3C-C2b8s
+13. https://gist.github.com/sttor/ba398d157a7ac3b3e42e18b4734bd1de
+
+14. https://docs.gitlab.com/user/application_security/sast/ - в гитлабе есть саст и даст анализаторы
+
+15. про semgrep - https://gist.github.com/sttor/ba398d157a7ac3b3e42e18b4734bd1de
+
+16. Static Application Security Testing (SAST) - https://docs.gitlab.com/user/application_security/sast/
+
