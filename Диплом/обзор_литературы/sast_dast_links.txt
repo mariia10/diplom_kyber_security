@@ -41,3 +41,6 @@ Samate SARD (Static Analysis Results Dataset) предоставляет наб�
 
 16. Static Application Security Testing (SAST) - https://docs.gitlab.com/user/application_security/sast/
 
+
+https://www.sonarsource.com/blog/sonar-s-scoring-on-the-top-3-java-sast-benchmarks/ - про бенчмарки
+
